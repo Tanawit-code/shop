@@ -6,7 +6,7 @@ import Navbar from "@/components/Navbar.vue";
 
   <Navbar>
 
-    <h1>Hello my shop</h1>
+    <h1>Contact</h1>
 
     <p>
       เลือกซื้อสินค้าคุณภาพในราคาพิเศษ
